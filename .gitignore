@@ -1,0 +1,5 @@
+data/
+scripts/.ipynb_checkpoints/
+*pkl
+*50d*
+scripts/models/
